@@ -6,3 +6,4 @@ logiciels / porgrammes gratuitement !
 ( Ils seront ensuite placés sur ma page GitHub et seront disponibles pour tous )
 
 Contact -> maxence5407@gmail.com
+Discord -> Maxence#9224
